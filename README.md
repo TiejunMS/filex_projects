@@ -1,1 +1,1 @@
-# filex_projects
+This repository contains projects to demonstrate issues from [filex](https://github.com/azure-rtos/filex) repository.
